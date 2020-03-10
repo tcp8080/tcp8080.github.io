@@ -37,7 +37,7 @@ func call(rpcname string, args interface{}, reply interface{}) bool {
 	}
 	defer c.Close()
 
-	err = c.Call(rpcname, args, reply)  //client send msg to server
+	err = c.Call(rpcname, args, reply)  //client send msg to server, and get reply
 	if err == nil {
 		return true
 	}
