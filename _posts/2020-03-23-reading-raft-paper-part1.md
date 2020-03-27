@@ -28,7 +28,7 @@ How term number works: when other server receives an AppendEntries RPC from the 
 ### Log replication
 log entry: a log index + a term number + a state machine commit
 
-<img src="http://127.0.0.1:4000/pic/logentry.png" width="350"/>
+<img src="http://tcp8080.github.io/pic/logentry.png" width="350"/>
 
 a log entry is **committed** once the leader has replicated it on a majority of the servers (e.g. entry 7 in the pic)
 
@@ -39,7 +39,7 @@ Log Matching Property:
 The first property follows from the fact that a leader creates at most one entry with a given log index in a given term, and log entries never change their position in the log
 the second prperty is guaranteed by a simple **consistency check** performed by AppendEntries.
 
-<img src="http://127.0.0.1:4000/pic/appendentryrpc.png" width="350"/>
+<img src="http://tcp8080.github.io/pic/appendentryrpc.png" width="350"/>
 
 consistency check:
  The leader sends the AppendEntriesRPC with the preLogIndex and preLogTerm, if the follower does not find an entry with the same index and term, then it refuses the new entry. 
