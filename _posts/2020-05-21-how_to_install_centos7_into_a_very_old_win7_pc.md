@@ -40,7 +40,7 @@ categories: centos
 ### Samba配置：
 目的：为了开放一个区域可以让家里多台电脑直接访问存取。
 
-##### 1. 设置静态IP
+#### 1. 设置静态IP
 在 /etc/sysconfig/network-scripts/ifcfg-网卡名 和etc/sysconfig/network-scripts/ifcfg-wifi名
 这两个文件里同时加上以下几行，并删除BOOTPROTO=dhcp，其中的ip地址等可以在局域网其他电脑上获取
 ```
@@ -56,21 +56,21 @@ DNS2=8.8.8.8         # 备用DNS服务器
 确定可以上网之后，输入ifconfig，获取ifcfg-wifi名文件里对应的静态IP
 这个静态ip地址之后其他电脑使用smb访问时需要输入
 
-##### 2. 安装samba并启动，设置开机自动
+#### 2. 安装samba并启动，设置开机自动
 yum install samba samba-client
 systemctl start smb.service 
 systemctl enable smb.service
 
-##### 3. 在centos里设置需要共享的文件夹
+#### 3. 在centos里设置需要共享的文件夹
 mkdir /home/xxx/smb
 chmod 777 /home/xxx/smb
 
-##### 4. 临时关闭SELINUX，并设置防火墙
+#### 4. 临时关闭SELINUX，并设置防火墙
 setenforce 0
 firewall-cmd --permanent --add-service=samba
 firewall-cmd --reload
 
-##### 5. 修改配置文件/etc/samba/smb.conf，增加这段
+#### 5. 修改配置文件/etc/samba/smb.conf，增加这段
 ```
 [share]
     path = /home/xxx/smb
@@ -80,7 +80,7 @@ firewall-cmd --reload
     writable = yes
 ```
 
-##### 6. 给centos系统用户开放samba权限
+#### 6. 给centos系统用户开放samba权限
 smbpasswd -a username1
 然后会提示你输入两次密码再确定
 
