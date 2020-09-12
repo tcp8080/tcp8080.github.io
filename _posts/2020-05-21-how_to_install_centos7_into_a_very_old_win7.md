@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[centos]How to install centos7 into a very old win7 computer"
+title:  "[centos] How to install centos7 into a very old win7 computer"
 date:   2020-05-21 now
 categories: centos
 ---

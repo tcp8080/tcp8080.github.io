@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[centos]How to config XiaoMi box working with kodi"
+title:  "[centos] How to config XiaoMi box working with kodi"
 date:   2020-09-10 now
 categories: centos
 ---

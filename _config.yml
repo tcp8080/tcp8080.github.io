@@ -26,13 +26,22 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  tcp8080
 
+title: TCP's World
+author:
+  name: tcp8080
+  email: tacapng@hotmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  This is tcp's world, who is trying to fig out what is happenning in the electronic world.
+
 show_excerpts: true
 
 # Build settings
 theme: minima
 
 minima:
-  skin: dark
+  # skin: dark
+  social_links:
+    github:  tcp8080
 
 plugins:
   - jekyll-feed
