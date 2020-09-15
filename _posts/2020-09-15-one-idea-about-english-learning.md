@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[idea] a rough idea about english learning tool"
-date:   2020-09-10 now
+date:   2020-09-15 now
 categories: idea
 ---
 
