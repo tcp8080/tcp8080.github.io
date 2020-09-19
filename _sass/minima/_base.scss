@@ -165,7 +165,10 @@ code {
   border: 1px solid $border-color-01;
   border-radius: 3px;
   background-color: $code-background-color;
+  white-space: pre-wrap;
 }
+
+
 
 code {
   padding: 1px 5px;
