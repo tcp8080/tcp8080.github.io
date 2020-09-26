@@ -38,6 +38,8 @@ show_excerpts: true
 # Build settings
 theme: minima
 
+permalink: /:categories/:title/
+
 minima:
   # skin: dark
   social_links:
