@@ -1,4 +1,7 @@
-﻿
+---
+categories: BilingualNews
+---
+
 The Beijing Hour 07:00-08:00 2020/09/22
 北京时间07：00-08：00 2020/09/22
 Shane Bigham with you on this Tuesday, Sept. 22, 2020.
