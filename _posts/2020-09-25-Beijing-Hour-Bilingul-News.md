@@ -11,6 +11,7 @@ You're listening to the Beijing Hour, live from the Chinese capital.
 您正在聆听来自中国首都的北京小时。
 
 [mp3](http://huayuncpv.meldingcloud.com/WJSL_YFMD/WJSL_YFMD/54c6f9582a80fc1e70ff5575/6AB65F93D9B0485CB7DEFBB486FB1127.mp3)
+```
 On Today's program...
 在今天的节目中...
 China has told the Conference on Interaction and Confidence Building Measures in Asia that the country stands for peace and non-interference...
@@ -1033,3 +1034,4 @@ On behalf of the staff, this is Shane Bigham in the Chinese capital, hoping you'
 代表工作人员，这是中国首都的谢恩·比格姆（Shane Bigham），希望您能与我们一起参加下一版的《北京时报》，并一起向世界敞开一个窗口。
 
 ----------------
+```
