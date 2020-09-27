@@ -2,8 +2,11 @@
 layout: post
 categories: BilingualNews
 ---
+[mp3](http://huayuncpv.meldingcloud.com/WJSL_YFMD/WJSL_YFMD/54c6f9582a80fc1e70ff5575/6AB65F93D9B0485CB7DEFBB486FB1127.mp3)
 
-The Beijing Hour 07:00-08:00 2020/09/25北京时间07：00-08：00 2020/09/25Shane Bigham with you on this Friday, Sept. 25, 2020.2020年9月25日，星期五，Shane Bigham和您一起。You're listening to the Beijing Hour, live from the Chinese capital.您正在聆听来自中国首都的北京小时。
+The Beijing Hour 07:00-08:00 2020/09/25 北京时间07：00-08：00 2020/09/25
+Shane Bigham with you on this Friday, Sept. 25, 2020.2020年9月25日，星期五，Shane Bigham和您一起。
+You're listening to the Beijing Hour, live from the Chinese capital.您正在聆听来自中国首都的北京小时。
 
 ```
 On Today's program...在今天的节目中...China has told the Conference on Interaction and Confidence Building Measures in Asia that the country stands for peace and non-interference...中国在亚洲互动与建立信任会议上表示，中国主张和平与不干涉。"We should all cooperate with our neighbors and build friendship and partnership with them. We oppose the willful use of force and power interference"“我们都应该与我们的邻居合作，与他们建立友谊和伙伴关系。我们反对故意使用武力和力量干涉”The UN is calling for joint efforts to mitigate harm caused by misinformation and disinformation about the COVID-19 pandemic...联合国呼吁共同努力减轻因误传和虚假信息引起的对COVID-19大流行的伤害...Jordan, Germany, France, Egypt call for a two-state solution to solve the Palestinian-Israeli conflict...约旦，德国，法国，埃及呼吁采取两国解决方案，以解决巴以冲突...In business...Beijing's new pilot free-trade zone...在业务中...北京新的自由贸易试验区...In sports...the IOC says the Tokyo Olympics can go ahead even without a COVID-19 vaccine...在体育运动中...国际奥委会表示，即使没有COVID-19疫苗，东京奥运会也可以继续前进...In culture and entertainment...Beijing Design Week...在文化和娱乐方面...北京设计周...Stay tuned.敬请关注。
