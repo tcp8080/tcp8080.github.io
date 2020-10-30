@@ -1,10 +1,8 @@
 ---
 layout: post
+title:  "Briefing Social media and free speech"
 categories: BilingualNews
 ---
-
-### Brieﬁng Social media and free speech
-### 聊聊社交媒体和言论自由
 
 #### The great clean-up
 ```
