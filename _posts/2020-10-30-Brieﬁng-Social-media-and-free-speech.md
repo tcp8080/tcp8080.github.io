@@ -3,11 +3,10 @@ layout: post
 categories: BilingualNews
 ---
 
-Brieﬁng Social media and free speech
-聊聊社交媒体和言论自由
+### Brieﬁng Social media and free speech
+### 聊聊社交媒体和言论自由
 
-The great clean-up
-很棒的清理
+#### The great clean-up
 ```
 Under public and official pressure, tech giants are removing more content.
 在公众和官方的压力下，科技巨头正在删除更多内容。
@@ -41,8 +40,7 @@ The companies have also improved their scrutiny of far-ﬂung countries, after c
 联合国称，在批评缅甸早先在缅甸等地的疏忽之后，这两家公司还改善了对遥远国家的审查。 Facebook本周宣布，在非洲大选之前，它已在斯瓦希里语，阿姆哈拉语，祖鲁语，索马里语，奥罗莫语和豪萨语聘请了更多内容审查员。它的目的是学习新语言，并在此过程中徘徊违反规则的内容。
 ```
 
-The room where it happens
-发生的房间
+#### The room where it happens
 ```
 Some tech bosses have been rethinking their approach to the trade-oﬀs between free expression and safety. Last October, in a speech at Georgetown University, Mr Zuckerberg made a full-throated defence of free speech, warning: “More people across the spectrum believe that achieving the political outcomes they think matter is more important than every person having a voice. I think that’s dangerous.” Yet this year, as misinformation about covid-19 ﬂourished, Facebook took a harder line on fake news about health, including banning anti-vaccination ads. And this month it banned both Holocaust denial and groups promoting QAnon, a crackpot conspiracy.
 一些技术老板一直在重新思考他们在表达自由与安全之间进行权衡的方法。去年10月，扎克伯格在乔治敦大学的演讲中全力捍卫言论自由，并警告说：“越来越多的人相信，实现他们认为重要的政治成果比每个有发言权的人都重要。我认为这很危险。”然而，今年以来，随着有关covid-19的错误信息泛滥，Facebook对有关健康的虚假新闻采取了更严厉的态度，包括禁止接种疫苗。本月，它禁止否认大屠杀，并禁止团体宣传QAnon（一种阴谋诡计）。
@@ -60,8 +58,7 @@ Rival social networks promising truly free speech have struggled to overcome the
 那些希望提供真正的言论自由的竞争性社交网络一直在努力克服在位者享有的网络影响。其中一位是加布（Gab），吸引了新纳粹分子。另一名共和党政客提拔了帕勒（Parler），但至今未能如愿。 （它也正努力解决自己的言论自由困境，不情愿制定规则，包括不发送粪便照片。）在中国之外，Facebook不运营，全球十分之四的人使用该平台；它同时拥有的WhatsApp和Instagram之间还有另外30亿个左右的帐户。扎克伯格在乔治敦（Georgetown）演讲中说：“坦率地说，我也不应该就我们自己的演讲做出这么多重要的决定。”
 ```
 
-Say no to this
-对这个说不
+#### Say no to this
 ```
 Bill Clinton once said that attempting to regulate the internet, with its millions of diﬀerent sites, would be “like trying to nail Jell-O to the wall”. But the concentration of the social-media market around a few companies has made the job easier.
 比尔·克林顿曾经说过，试图对拥有数百万个不同站点的互联网进行监管，就像“试图将Jell-O钉在墙上”。但是社交媒体市场集中在一些公司周围使工作变得容易了。
@@ -79,8 +76,7 @@ National governments have also set their own rules, notably Germany, whose Netwo
 各国政府还制定了自己的规则，尤其是德国。德国在2017年的《网络执行法》中威胁，如果未能在通知后24小时内删除违法内容，则平台将面临高达5000万欧元（合6000万美元）的罚款。作为回应，Facebook在德国开设了一个新的审核中心。尼尔森先生指出，以这种方式将执法私有化的麻烦在于，两家公司有很大的动机去谨慎行事。法官可以运用酌处权来忽略很少使用的言语规则（例如直到最近才禁止侮辱外国国家元首的德国法律）。但是，社交媒体公司没有理由冒险忽视法律。
 ```
 
-Who tells your story
-谁在讲你的故事
+#### Who tells your story
 ```
 Some governments are leaning on social networks to remove content that may be legal. The social-media platforms have their own rules that go further than most governments’. A ban on material that could interfere with “civic integrity” may sound like something from communist China; it is actually in Twitter’s rules. London’s Metropolitan Police has a unit that scours platforms for terrorism-related content, which it “requests” be taken down for breaching the platform’s terms of service—even though the material may not break any law.
 一些政府正依靠社交网络删除可能合法的内容。社交媒体平台有自己的规则，比大多数政府的规则要严格得多。禁止可能干扰“公民诚信”的材料听起来像共产主义中国。这实际上是Twitter的规则。伦敦大都会警察局设有一个部门，负责搜查与恐怖主义有关的内容的平台，尽管该材料可能未违反任何法律，但由于违反平台的服务条款而被“撤消”。
@@ -101,8 +97,7 @@ Facebook took a step towards such a system on October 22nd with the launch of it
 10月22日，Facebook推出了监督委员会，朝着这样的系统迈出了一步。监督委员会由20位优秀人士组成，负责监督其温和的决定并发布具有约束力的裁决。董事会的范围比某些人希望的要窄。它只能考虑是否应恢复已删除的帖子。它仅适用Facebook的规则，而不是设置它们。它不能考虑通过算法降级的帖子，而不是删除的帖子。因此，最近一些最著名的争议（董事会决定放弃唐纳德·特朗普的一个有争议的职位，撤回QAnon，撤销对大屠杀的否认和贬低该职位的报道）不在董事会的管辖范围之内。
 ```
 
-History has its eyes on you
-历史注视着你
+#### History has its eyes on you
 ```
 Yet as Alan Rusbridger, a former Guardian editor and member of the new board, puts it, it is a “revolutionary thought”. “A company that has notoriously been very reluctant to surrender control on anything has handed over…the power to make some pretty consequential decisions on its behalf,” he says. He hopes the board will get more powers over time. Facebook says this is premature. But Sir Nick Clegg, its head of global aﬀairs, hopes the board’s remit might one day expand to consider cases submitted by other social networks.
 然而，正如前《卫报》编辑兼新董事会成员艾伦·罗斯布里奇（Alan Rusbridger）所说，这是一种“革命思想​​”。他说：“众所周知，一家非常不愿放弃对任何事情的控制权的公司已经移交了……代表其做出一些相当重要的决定的权力。”他希望董事会将随着时间的推移获得更多权力。 Facebook说这还为时过早。但是其全球航空事务负责人尼克·克莱格爵士（Sir Nick Clegg）希望董事会的职权范围有一天可以扩大到考虑其他社交网络提交的案件。
