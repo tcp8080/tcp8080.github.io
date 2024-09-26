@@ -1,20 +1,23 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
-  {%- include head.html -%}
-
-  <body>
-
-    {%- include header.html -%}
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
+<html>
+<head>
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
+</head>
+<body>
+    <header>
+        <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+        <nav>
+            <ul>
+                {% for chapter in site.chapters %}
+                    <li><a href="{{ chapter.url }}">{{ chapter.title }}</a></li>
+                {% endfor %}
+            </ul>
+        </nav>
+    </header>
+    <main>
         {{ content }}
-      </div>
     </main>
-
-    {%- include footer.html -%}
-
-  </body>
-
+</body>
 </html>
+

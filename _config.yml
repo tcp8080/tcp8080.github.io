@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,36 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: TCP's World
-email: tacapng@hotmail.com
+title: Tan's Learning Lessons
+email: jesseeitan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  TCP‘s World
+  Where collect the lessons learned from various fields
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: tcp8080
 github_username:  tcp8080
-
-title: TCP's World
-author:
-  name: tcp8080
-  email: tacapng@hotmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  This is tcp's world, who is trying to fig out what is happenning in the electronic world.
-
-show_excerpts: true
 
 # Build settings
 theme: minima
-
-permalink: /:categories/:title/
-
-minima:
-  # skin: dark
-  social_links:
-    github:  tcp8080
-
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
